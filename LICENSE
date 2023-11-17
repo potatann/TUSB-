@@ -1,24 +1,7 @@
-This is free and unencumbered software released into the public domain.
-
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
-
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
-
-For more information, please refer to <https://unlicense.org>
+本データパックのライセンスに関しては以下のものとします。
+本データパックの所有、編集、配布などの権利は@potatannにあります。（ただし配布停止の権利は一部別です※１）
+配布、宣伝をする際は必ずGithub内にある本データパックのリポジトリURLを添付すること（別のサイトなどで勝手に配布URLを作らないこと）
+自己創作発言（私が作った）や二次配布などは禁止です。
+本データパックを編集する際はできれば@potatannに連絡をお願いします。※２
+※１：本データパックはTUSBの内容からインスピレーションを受けたり参考にしている部分が多く、名前にもTUSBと入れているので、本家の制作人の方から削除依頼などを受けたら即刻削除します。
+※２：編集自体は大丈夫です。tagやfunctionの説明など手伝いをしたり、今後の作品などの参考にします。
